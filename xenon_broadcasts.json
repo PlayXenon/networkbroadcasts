@@ -1,13 +1,15 @@
 {
-  "1": {
-    "text": [
-      "<b><light_purple>[Xenon]</light_purple></b> <white>Upgrade your server plan to unlock <green>24/7</green> <gold>MORE POWER</gold> <aqua>MORE PLAYER SLOTS</aqua>",
-      "<yellow>Upgrade your server now: <light_purple><click:open_url:'https://store.xenon.club'>store.xenon.club</click></light_purple></yellow>"
-    ]
-  },
-  "2": {
-    "text": [
-      "<b><light_purple>[Xenon]</light_purple> <white>This is a broadcast :)"
-    ]
+  "messages": {
+    "1": {
+      "text": [
+        "<b><light_purple>[Xenon]</light_purple></b> <white>Upgrade your server plan to unlock <green>24/7</green> <gold>MORE POWER</gold> <aqua>MORE PLAYER SLOTS</aqua>",
+        "<yellow>Upgrade your server now: <light_purple><click:open_url:'https://store.xenon.club'>store.xenon.club</click></light_purple></yellow>"
+      ]
+    },
+    "2": {
+      "text": [
+        "<b><light_purple>[Xenon]</light_purple> <white>This is a broadcast :)"
+      ]
+    }
   }
 }
