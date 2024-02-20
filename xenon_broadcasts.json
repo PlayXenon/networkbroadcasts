@@ -8,7 +8,7 @@
     },
     "2": {
       "text": [
-        "<b><light_purple>[Xenon]</light_purple> <white>This is a broadcast :)"
+        "<light_purple><b>[Xenon]</b></light_purple> <color:#ff94d1>Want your server to be online all the time? Upgrade to a paid plan:</color> <u><click:open_url:'https://store.xenon.club'>store.xenon.club</click></u>"
       ]
     }
   }
