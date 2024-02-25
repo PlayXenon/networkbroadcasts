@@ -2,8 +2,10 @@
   "messages": {
     "1": {
       "text": [
-        "<b><light_purple>[Xenon]</light_purple></b> <white>Upgrade your server plan to unlock <green>24/7</green> <gold>MORE POWER</gold> <aqua>MORE PLAYER SLOTS</aqua>",
-        "<yellow>Upgrade your server now: <light_purple><click:open_url:'https://store.xenon.club'>store.xenon.club</click></light_purple></yellow>"
+        "<b><color:#fff200>NEW SERVER PLAN ALERT</color></b>",
+        "<gray>Affordable and Higher Performance for only $5</gray>",
+        "Upgrade to our brand new <color:#ff8800><b>BURST</b></color> plan now",
+        "<color:#fff200>→</color> <color:#ffcd70>store.xenon.club</color><gray></gray>"
       ]
     },
     "2": {
