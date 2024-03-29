@@ -12,6 +12,13 @@
       "text": [
         "<light_purple><b>[Xenon]</b></light_purple> <color:#ff94d1>Want your server to be online all the time? Upgrade to a paid plan:</color> <u><click:open_url:'https://store.xenon.club'>store.xenon.club</click></u>"
       ]
+    },
+    "3": {
+      "text": [
+        "<color:#e5ff00><b>NEW TWITCH CHANNEL</b></color>",
+        "<color:#f0ff69>Check it out at</color> <click:open_url:'https://www.twitch.tv/simplylate'></click>twitch.tv/simplylate",
+        "<gray>Leave a cheeky follow whilst you're at it!</gray>"
+      ]
     }
   }
 }
